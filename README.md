@@ -29,8 +29,8 @@ Users should be able to:
 ![](design/Mobile-View_Screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/quick-and-simple-order-summary-component-UVmq0jYFUv)
+- Live Site URL: (https://arceoche.github.io/Challenge10_Order-Summary-Component/)
 
 ## My process
 
